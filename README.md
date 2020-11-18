@@ -12,7 +12,7 @@ This library is meant to be used in Python3.x and requires the "requests" librar
 
 ## .usage
 
-Super easy usage!!!
+Super easy usage!!! If you just want to use the test script then go for it, located [here]https://github.com/Cr0n1c/crowdstrike-rtr/blob/main/test.py
 
     from crowdstrike import Crowdstrike
     
